@@ -6,3 +6,7 @@
 docker build -t jovian-docker .
 docker run -it jovian-docker
 ```
+
+## Usage
+
+```docker run [rmwthorne/jovian](https://hub.docker.com/r/rmwthorne/jovian) jovian -h```

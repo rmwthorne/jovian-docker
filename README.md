@@ -9,4 +9,6 @@ docker run -it jovian-docker
 
 ## Usage
 
-```docker run [rmwthorne/jovian](https://hub.docker.com/r/rmwthorne/jovian) jovian -h```
+Images are built from master and pushed to dockerhub, just pull [rmwthorne/jovian](https://hub.docker.com/r/rmwthorne/jovian).
+
+```docker run rwmthorne/jovian jovian -h```
